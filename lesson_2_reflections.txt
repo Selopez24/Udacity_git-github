@@ -5,3 +5,8 @@ It allows to start doing commits and track the activity in the files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Is different because it only allows to save changes in the selected files, and then make a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area helps to make a double check before doing a commit, also, allows to have control in the files that
+were modified for the next commit to ensure a commit per logical change.
