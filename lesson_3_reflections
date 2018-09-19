@@ -10,3 +10,7 @@ Branches are different versions of a repository wich can be used to work in feat
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It helps to keep track of that state as a branch and work on it offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+without Git and Github the way I collaborate would be sending the files to my teammates, may be easier to 
+share, because is no previous Git or Github knowledge needed, but is harder to keep track of the work done.
